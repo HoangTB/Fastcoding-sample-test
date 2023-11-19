@@ -3,7 +3,7 @@
 }
 
 .custom-section img {
-  max-width: 100%;
+  width: 100%;
   filter: brightness(40%);
   object-fit: cover;
 }
